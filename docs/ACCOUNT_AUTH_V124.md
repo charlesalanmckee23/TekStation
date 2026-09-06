@@ -1,0 +1,1 @@
+Restored the complete v122 runtime lost by the v123 truncated index.html, retained v123 CPU-safe challenge authentication, and added v124 release notes.
